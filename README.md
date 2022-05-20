@@ -2,4 +2,6 @@
 =============
 ## testuję na vsc
 -------------------
-randomowy tekst  tak tylko dla testów
+randomowy tekst
+  tak tylko dla testów
+  *zobaczymy co wyjdzie*
