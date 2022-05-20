@@ -4,4 +4,5 @@
 -------------------
 randomowy tekst
   tak tylko dla testów
-  *zobaczymy co wyjdzie*
+  *zobaczymy co wyjdzie*  
+  teraz powinien zadziałać breake line
