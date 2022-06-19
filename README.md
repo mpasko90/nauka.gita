@@ -12,3 +12,5 @@ Listy też zrobić łatwo:
   * Bo chyba źle się wyświetlała
 
 ------------------------------------------------------
+# Można dodać też zdjęcie z linkiem tylko,że nadal coś tu nie działa
+[![Las w polsce](https://ocdn.eu/pulscms-transforms/1/xLak9kpTURBXy9hNDdkODY5MTQxMjk2NjczYWVlZmRmZTJiMTgzNjhhMi5qcGeTlQMAzJTNEpDNCnGTBc0DFM0BvJMJpmIyNTBjNAaBoTAF/krzywy-las-kolo-gryfina.webp "Magiczny las")](https://podroze.onet.pl/przyroda/krzywy-las-kolo-gryfina-wyrozniony-przez-brytyjski-dziennik/sp1mx1c)
