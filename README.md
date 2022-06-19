@@ -1,4 +1,4 @@
-Nagłówek po raz pierwszy
+Nagłówek po raz pierwszy a teraz, raz drugi
 ========
 i podtytuł też zmieniony
 ----------
